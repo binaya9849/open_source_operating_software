@@ -298,10 +298,7 @@ def combine_lists_program():
     result = combine_lists(list1, list2)
     print("Combined list:", result)
 
-
-# =====================================================
-# Main Menu
-# =====================================================
+# Menu List
 if __name__ == "__main__":
     while True:
         print("\n=== Exercise Menu ===")
